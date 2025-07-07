@@ -2,6 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ex1-hello-start" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hello-spring" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jpashop" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/springboot-jpa-blog" vcs="Git" />
   </component>
 </project>

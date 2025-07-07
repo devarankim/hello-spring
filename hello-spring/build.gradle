@@ -13,7 +13,7 @@ java {
 }
 
 repositories {
-	mavenCentral() //디펜던시를 여기서 다운받아라 라고 명시
+	mavenCentral()
 }
 
 dependencies {
